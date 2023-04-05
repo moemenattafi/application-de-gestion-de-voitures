@@ -1,0 +1,8 @@
+{
+  "name": "application-de-location-de-voiture",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
